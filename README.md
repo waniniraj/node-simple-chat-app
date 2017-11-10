@@ -3,7 +3,7 @@
 ### To clone the app 
 
 git clone https://github.com/waniniraj/node-simple-chat-app
-cd js-essentials-2
+cd node-simple-chat-app
 npm install
 npm start
 
